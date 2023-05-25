@@ -1,0 +1,16 @@
+func enter devuelveElMayor(enter x,enter y){
+ enter mayor;
+ si(x>o=y){
+  mayor = x;
+ }sino{
+  mayor = y;
+ }
+ retorna mayor;
+}
+principal(){
+ enter uno = 15;
+ enter dos = 35;
+ enter x;
+ x = devuelveElMayor(uno,dos);
+ sortidaPantalla(x);
+}
