@@ -1,5 +1,5 @@
 # COMPILADOR
-En esta práctica mis compañeros y yo desarrollamos un compilador para un lenguaje que nosotros mismos definimos. En cuanto a las funcionalidades que contempla nuestro compilador, tenemos implementadas las siguientes características:
+En esta práctica mis compañeros y yo desarrollamos un compilador usando Java y JavaCUP para un lenguaje que nosotros mismos definimos. En cuanto a las funcionalidades que contempla nuestro compilador, tenemos implementadas las siguientes características:
 
 -Un cuerpo definido para el main, en nuestro caso principal().
 -Definición de subprogramas, tenemos subprogramas que devuelven un tipo entero, un tipo booleano o simplemente void (no devuelven nada).
